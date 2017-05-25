@@ -48,3 +48,9 @@ Requests is great to use, but under the relatively elegant surface is code that 
 [Watch](https://www.youtube.com/watch?v=9BUakSTQwb4)
 
 If you've played with an Ardunio or similar hardware and experienced the limitations of the platform, you'll appreciate what having a more powerful microcontroller that can run higher level languages can allow you do more easily.
+
+## [Hacking Classic Nintendo Games with Python](https://us.pycon.org/2017/schedule/presentation/732/)
+
+[Watch](https://www.youtube.com/watch?v=v75rNdPukuI)
+
+This was a clever, fun demo. Why not allow a room full of people to poke values into the memory of an emulated NES?
